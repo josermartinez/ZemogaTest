@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ZemogaTest</string>
+    <string name="all_post_tab_title">All</string>
+    <string name="favorite_post_tab_title">Favorites</string>
+    <string name="description_post_detail_title">Description</string>
+    <string name="user_post_detail_title">User</string>
+    <string name="comments_post_detail_title">Comments</string>
+    <string name="toolbar_text">Posts</string>
+    <string name="no_data_found_text">No data found</string>
+
+    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+</resources>
